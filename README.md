@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @joeyreu
+- 💼 I'm currently working as a software engineer in the SF Bay Area
 - 👀 I’m interested in UI/UX, algorithmic trading, machine learning, AI, etc...
 - 🌱 I’m currently learning chrome extension development for a passion project
 - 💞️ I’m looking to collaborate on anything :)
